@@ -1,0 +1,12 @@
+.vs
+*.log
+*.obj
+*.res
+*.recipe
+*.tlog
+*vc143.pdb
+*.iobj
+*.ipdb
+*FileListAbsolute.txt
+*.user
+*.aps
